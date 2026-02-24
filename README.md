@@ -70,4 +70,12 @@ export default defineConfig([
     },
   },
 ])
+    ## LAB-2 Accessibility Raporu
+
+    Bu projede semantik HTML5, erişilebilirlik (a11y) ilkeleri ve form doğrulama
+    özellikleri uygulanmıştır.
+
+    ### Lighthouse Accessibility Skoru
+
+    ![Lighthouse Accessibility Score](docs/lighthouse.png)
 ```
